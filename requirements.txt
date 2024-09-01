@@ -1,0 +1,7 @@
+Flask
+beautifulsoup4
+lxml
+nltk
+numpy
+num2words
+scikit-learn
